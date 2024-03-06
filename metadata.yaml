@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "http://rixdsp.console.rixbeedesk.com"
-documentation: "https://tagmanager.google.com/?authuser=1#/container/accounts/6220411391/containers/179288463/workspaces/8/templates"
+homepage: "www.rixengine.com"
+documentation: "https://crs.rixbeedesk.com/help/tracking"
 versions:
   - sha: 46f3bf8774789ceadeb425b509162dabf2be5246
     changeNotes: Initial Version
