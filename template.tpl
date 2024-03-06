@@ -8,7 +8,9 @@ Google may provide), as modified from time to time.
 
 ___INFO___
 
-{
+{  
+  "displayName": "Example Template",
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
   "type": "TAG",
   "id": "cvt_temp_public_id",
   "version": 1,
